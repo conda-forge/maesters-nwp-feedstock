@@ -1,5 +1,5 @@
 {% set name = "maesters-nwp" %}
-{% set version = "0.0.8" %}
+{% set version = "0.0.9" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: b1ff26d5b05079d35e7088a86e516eda093d1a8425c5f799783d78a0cc946ec1
+  sha256: 533042554ac8606f02ff4b8f0f094259f6e25d52ce26db71c036c6ad3b49dae5
 
 
 build:
