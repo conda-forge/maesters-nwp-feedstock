@@ -147,6 +147,3 @@ Feedstock Maintainers
 
 * [@blizhan](https://github.com/blizhan/)
 
-
-<!-- dummy commit to enable rerendering -->
-
